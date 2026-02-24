@@ -164,3 +164,22 @@ This displays the complete tree structure showing:
 2. Execute cells sequentially from top to bottom
 3. Observe the output including accuracy, confusion matrix, and tree visualization
 
+## Learning Outcomes
+After completing this program, you will understand:
+- How Decision Trees make classification decisions
+- The concept of entropy and information gain
+- How to implement Decision Trees using scikit-learn
+- How to evaluate classifier performance
+- How to visualize decision boundaries and tree structure
+- How to prevent overfitting using hyperparameters
+
+## References
+- [Scikit-learn Decision Trees Documentation](https://scikit-learn.org/stable/modules/tree.html)
+- [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+- Decision Tree Theory and Applications
+
+---
+**Author**: ML Lab Program  
+**Date**: February 2026  
+**Language**: Python 3.x  
+**Libraries**: scikit-learn, pandas, seaborn, matplotlib
