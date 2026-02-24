@@ -130,3 +130,22 @@ This displays the complete tree structure showing:
 - Sample counts
 - Class distributions
 
+## Advantages of Decision Trees
+1. **Easy to Understand**: Tree structure is intuitive and visual
+2. **No Feature Scaling**: Works with features on different scales
+3. **Handles Non-linear Relationships**: Can capture complex patterns
+4. **Feature Importance**: Shows which features are most important
+5. **Handles Mixed Data**: Works with both numerical and categorical data
+
+## Disadvantages of Decision Trees
+1. **Overfitting**: Can create overly complex trees
+2. **Instability**: Small data changes can create different trees
+3. **Bias**: Biased toward features with more levels
+4. **Not Optimal**: Greedy algorithm may not find globally optimal tree
+
+## Preventing Overfitting
+1. **Pruning**: Remove branches that don't improve accuracy
+2. **Max Depth**: Limit tree depth
+3. **Min Samples Split**: Require minimum samples to split
+4. **Min Samples Leaf**: Require minimum samples in leaf nodes
+
