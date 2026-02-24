@@ -105,3 +105,28 @@ score = model.score(x_test, y_test)
 print(f"Accuracy: {score * 100:.2f}%")
 ```
 
+### Step 6: Visualize Results
+
+#### Confusion Matrix
+```python
+y_pred = model.predict(x_test)
+sb.heatmap(confusion_matrix(y_test, y_pred), annot=True, cmap='Blues')
+```
+
+The confusion matrix shows:
+- **Rows**: Actual classes
+- **Columns**: Predicted classes
+- **Diagonal**: Correct predictions
+- **Off-diagonal**: Misclassifications
+
+#### Decision Tree Visualization
+```python
+tree.plot_tree(model, feature_names=df.columns)
+```
+
+This displays the complete tree structure showing:
+- Decision rules at each node
+- Entropy values
+- Sample counts
+- Class distributions
+
