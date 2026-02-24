@@ -57,3 +57,51 @@ The Iris dataset contains 150 samples of iris flowers with 4 features:
 - Sepal width (cm)
 - Petal width (cm)
 
+## Implementation Steps
+
+### Step 1: Import Libraries
+```python
+from sklearn import tree
+from sklearn.datasets import load_iris
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import confusion_matrix
+import seaborn as sb
+```
+
+### Step 2: Load and Prepare Data
+```python
+# Load iris dataset
+d = load_iris()
+df = pd.DataFrame(d.data, columns=d.feature_names)
+
+# Select only 2 features for simplicity
+df = df[["sepal width (cm)", "petal width (cm)"]]
+y = d.target
+```
+
+### Step 3: Split Data
+```python
+# 80% training, 20% testing
+x_train, x_test, y_train, y_test = train_test_split(df, y, test_size=0.2)
+```
+
+### Step 4: Create and Train Model
+```python
+# Create Decision Tree with entropy criterion
+model = DecisionTreeClassifier(criterion='entropy', max_depth=4)
+model.fit(x_train, y_train)
+```
+
+**Parameters Used**:
+- `criterion='entropy'`: Uses information gain for splitting
+- `max_depth=4`: Limits tree depth to prevent overfitting
+
+### Step 5: Evaluate Model
+```python
+# Calculate accuracy
+score = model.score(x_test, y_test)
+print(f"Accuracy: {score * 100:.2f}%")
+```
+
