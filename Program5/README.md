@@ -20,3 +20,24 @@ A Decision Tree is a flowchart-like structure where:
 3. **Repeat Recursively**: Continue splitting until a stopping condition is met
 4. **Make Predictions**: Classify new instances by following the path from root to leaf
 
+### Key Concepts
+
+#### 1. Splitting Criteria
+- **Entropy**: Measures the impurity or randomness in the data
+  - Formula: `Entropy = -Σ(p_i * log2(p_i))`
+  - Lower entropy = more pure node
+  - 0 = perfectly pure, 1 = maximum impurity
+
+- **Information Gain**: Reduction in entropy after splitting
+  - Higher information gain = better split
+
+- **Gini Index**: Alternative to entropy
+  - Measures probability of incorrect classification
+  - Formula: `Gini = 1 - Σ(p_i)²`
+
+#### 2. Hyperparameters
+- **criterion**: Splitting criterion ('gini' or 'entropy')
+- **max_depth**: Maximum depth of the tree (prevents overfitting)
+- **min_samples_split**: Minimum samples required to split a node
+- **min_samples_leaf**: Minimum samples required at a leaf node
+
