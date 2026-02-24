@@ -149,3 +149,18 @@ This displays the complete tree structure showing:
 3. **Min Samples Split**: Require minimum samples to split
 4. **Min Samples Leaf**: Require minimum samples in leaf nodes
 
+## Files in this Program
+- **5DT.ipynb**: Main Decision Tree implementation with detailed steps
+- **p5.ipynb**: Alternate implementation of Decision Tree classifier
+- **README.md**: This documentation file
+
+## Expected Output
+- **Accuracy**: Typically 70-95% depending on train-test split
+- **Confusion Matrix**: Heatmap showing classification performance
+- **Decision Tree Plot**: Visual representation of the tree structure
+
+## How to Run
+1. Open either `5DT.ipynb` or `p5.ipynb` in Jupyter Notebook
+2. Execute cells sequentially from top to bottom
+3. Observe the output including accuracy, confusion matrix, and tree visualization
+
