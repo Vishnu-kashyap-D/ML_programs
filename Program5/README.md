@@ -41,3 +41,19 @@ A Decision Tree is a flowchart-like structure where:
 - **min_samples_split**: Minimum samples required to split a node
 - **min_samples_leaf**: Minimum samples required at a leaf node
 
+## Dataset: Iris Dataset
+The Iris dataset contains 150 samples of iris flowers with 4 features:
+- Sepal length (cm)
+- Sepal width (cm)
+- Petal length (cm)
+- Petal width (cm)
+
+**Target Classes** (3 species):
+1. Setosa (0)
+2. Versicolor (1)
+3. Virginica (2)
+
+**In this program**, we use only 2 features:
+- Sepal width (cm)
+- Petal width (cm)
+
