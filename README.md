@@ -56,3 +56,7 @@ git clone https://github.com/Vishnu-kashyap-D/ML_programs.git
 
 2. Launch your terminal, navigate to the folder, and run \jupyter notebook\.
 
+
+## Author
+**Vishnu Kashyap D**
+
