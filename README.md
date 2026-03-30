@@ -24,3 +24,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 7**: Support Vector Machines (SVM)
 
+- **Program 8**: Principal Component Analysis (PCA)
+
