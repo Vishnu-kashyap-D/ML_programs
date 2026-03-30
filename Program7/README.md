@@ -25,3 +25,7 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 - **7svm.ipynb**: Secondary notebook with short/alternative code for SVM.
 
+
+## Prerequisites and Execution
+- Python 3.x, Jupyter Notebook, scikit-learn, numpy, matplotlib
+
