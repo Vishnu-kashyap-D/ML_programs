@@ -18,3 +18,6 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 - **Kernel Trick**: A technique used to transform data into a higher dimension to solve non-linear classification problems.
 
+
+## Files Included
+
