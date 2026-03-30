@@ -12,3 +12,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 1**: Introduction to Data Processing and Graphing
 
+- **Program 2**: Linear Regression Implementation
+
