@@ -12,3 +12,5 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 - **Hyperplane**: The decision boundary that separates different classes in the feature space.
 
+- **Support Vectors**: The data points closest to the hyperplane that influence its position and orientation.
+
