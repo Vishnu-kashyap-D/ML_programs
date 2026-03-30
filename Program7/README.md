@@ -21,3 +21,5 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 ## Files Included
 
+- **p7.ipynb**: Main notebook containing the detailed SVM implementation.
+
