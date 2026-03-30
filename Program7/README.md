@@ -16,3 +16,5 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 - **Margin**: The distance between the hyperplane and the support vectors. SVM aims to maximize this margin.
 
+- **Kernel Trick**: A technique used to transform data into a higher dimension to solve non-linear classification problems.
+
