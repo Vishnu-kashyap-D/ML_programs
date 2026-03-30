@@ -10,3 +10,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 ## Programs Included
 
+- **Program 1**: Introduction to Data Processing and Graphing
+
