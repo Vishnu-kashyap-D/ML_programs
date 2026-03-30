@@ -51,3 +51,6 @@ To run these notebooks locally, you will need the following installed:
 
 ## Getting Started
 
+1. Clone the repository to your local machine: 
+git clone https://github.com/Vishnu-kashyap-D/ML_programs.git
+
