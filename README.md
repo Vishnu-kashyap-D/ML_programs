@@ -33,3 +33,6 @@ Each ML algorithm has its own dedicated directory (e.g., Program1, Program2, etc
 
 Most directories contain both the main detailed notebook and a shorter/alternative notebook version.
 
+
+## Prerequisites and Dependencies
+
