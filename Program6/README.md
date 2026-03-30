@@ -10,3 +10,7 @@ This program demonstrates the implementation of the K-Means clustering algorithm
 2. Assign each data point to the nearest centroid.
 3. Update the centroids by calculating the mean of all points assigned to each cluster.
 4. Repeat steps 2 and 3 until the centroids no longer change.
+
+
+## Files Included
+
