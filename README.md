@@ -29,3 +29,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 ## Repository Structure
 
+Each ML algorithm has its own dedicated directory (e.g., Program1, Program2, etc.).
+
