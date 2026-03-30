@@ -42,3 +42,5 @@ To run these notebooks locally, you will need the following installed:
 
 - **Jupyter Notebook** or JupyterLab
 
+- **NumPy** & **Pandas** for efficient data manipulation.
+
