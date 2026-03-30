@@ -38,3 +38,5 @@ Most directories contain both the main detailed notebook and a shorter/alternati
 
 To run these notebooks locally, you will need the following installed:
 
+- **Python 3.x**
+
