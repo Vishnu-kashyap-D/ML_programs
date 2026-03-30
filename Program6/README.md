@@ -22,3 +22,7 @@ This program demonstrates the implementation of the K-Means clustering algorithm
 ## Prerequisites
 - Python 3.x, Jupyter Notebook, NumPy, pandas, matplotlib, scikit-learn
 
+
+## How to Run
+1. Navigate to Program6/
+2. Launch Jupyter Notebook and open the .ipynb files.
