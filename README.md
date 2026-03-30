@@ -22,3 +22,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 6**: K-Means Clustering
 
+- **Program 7**: Support Vector Machines (SVM)
+
