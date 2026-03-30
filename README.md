@@ -55,3 +55,7 @@ To run these notebooks locally, you will need the following installed:
 
 2. Launch your terminal and run \jupyter notebook\.
 
+
+## Author
+**Vishnu Kashyap D**
+
