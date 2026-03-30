@@ -18,3 +18,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 4**: K-Nearest Neighbors (KNN)
 
+- **Program 5**: Decision Trees (DT)
+
