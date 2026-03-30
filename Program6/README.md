@@ -26,3 +26,7 @@ This program demonstrates the implementation of the K-Means clustering algorithm
 ## How to Run
 1. Navigate to Program6/
 2. Launch Jupyter Notebook and open the .ipynb files.
+
+
+## Conclusion
+K-Means is powerful for finding hidden patterns in unlabeled data.
