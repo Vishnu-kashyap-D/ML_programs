@@ -51,3 +51,5 @@ To run these notebooks locally, you will need the following installed:
 
 ## Getting Started
 
+1. Clone the repository:
+
