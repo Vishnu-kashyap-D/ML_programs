@@ -46,3 +46,5 @@ To run these notebooks locally, you will need the following installed:
 
 - **Matplotlib** & **Seaborn** for visualizations and plotting.
 
+- **Scikit-Learn** for standard machine learning models.
+
