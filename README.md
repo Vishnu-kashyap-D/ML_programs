@@ -40,3 +40,5 @@ To run these notebooks locally, you will need the following installed:
 
 - **Python 3.x**
 
+- **Jupyter Framework**
+
