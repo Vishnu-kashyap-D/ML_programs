@@ -44,3 +44,5 @@ To run these notebooks locally, you will need the following installed:
 
 - **NumPy** & **Pandas** for efficient data manipulation.
 
+- **Matplotlib** & **Seaborn** for visualizations and plotting.
+
