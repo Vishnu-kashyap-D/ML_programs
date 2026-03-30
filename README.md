@@ -20,3 +20,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 5**: Decision Trees (DT)
 
+- **Program 6**: K-Means Clustering
+
