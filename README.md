@@ -14,3 +14,5 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 2**: Linear Regression Implementation
 
+- **Program 3**: Logistic Regression Implementation
+
