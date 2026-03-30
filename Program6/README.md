@@ -14,3 +14,5 @@ This program demonstrates the implementation of the K-Means clustering algorithm
 
 ## Files Included
 
+- **p6.ipynb**: Main notebook containing the K-Means implementation and detailed comments.
+
