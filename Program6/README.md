@@ -18,3 +18,7 @@ This program demonstrates the implementation of the K-Means clustering algorithm
 
 - **6Kmeans.ipynb**: Secondary notebook with short/alternative code for K-Means.
 
+
+## Prerequisites
+- Python 3.x, Jupyter Notebook, NumPy, pandas, matplotlib, scikit-learn
+
