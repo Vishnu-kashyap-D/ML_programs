@@ -26,3 +26,6 @@ This repository contains Jupyter notebooks for various Machine Learning algorith
 
 - **Program 8**: Principal Component Analysis (PCA)
 
+
+## Repository Structure
+
