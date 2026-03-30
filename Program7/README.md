@@ -29,3 +29,4 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 ## Prerequisites and Execution
 - Python 3.x, Jupyter Notebook, scikit-learn, numpy, matplotlib
 
+To run, launch Jupyter Notebook and execute the cells sequentially in the .ipynb files.
