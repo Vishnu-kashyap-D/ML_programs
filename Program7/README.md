@@ -10,3 +10,5 @@ SVMs are primarily used for classification tasks but can also be adapted for reg
 
 ## Core Concepts
 
+- **Hyperplane**: The decision boundary that separates different classes in the feature space.
+
