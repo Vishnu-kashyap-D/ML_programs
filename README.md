@@ -54,3 +54,5 @@ To run these notebooks locally, you will need the following installed:
 1. Clone the repository to your local machine: 
 git clone https://github.com/Vishnu-kashyap-D/ML_programs.git
 
+2. Launch your terminal, navigate to the folder, and run \jupyter notebook\.
+
