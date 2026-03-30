@@ -36,3 +36,5 @@ Most directories contain both the main detailed notebook and a shorter/alternati
 
 ## Prerequisites and Dependencies
 
+To run these notebooks locally, you will need the following installed:
+
