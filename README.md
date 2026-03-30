@@ -53,3 +53,5 @@ To run these notebooks locally, you will need the following installed:
 
 1. Clone the repository:
 
+2. Launch your terminal and run \jupyter notebook\.
+
